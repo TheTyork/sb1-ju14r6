@@ -14,7 +14,7 @@ function App() {
             <div className="flex items-center gap-2">
               <FileText className="h-8 w-8 text-blue-600" />
               <h1 className="text-3xl font-bold text-gray-900">
-                Система отчетов по обновлениям
+                Система автоматизации отчетов по обновлениям
               </h1>
             </div>
             <button
